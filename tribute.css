@@ -1,0 +1,39 @@
+header{
+    background-color: rgb(15, 111, 111);
+    font-size: 60px;
+    font-style: italic;
+    text-align: center;
+}
+.bottom{
+    background-color: rgb(15, 111, 111);
+    font-size: 60px;
+    font-style: italic;
+    text-align: center;
+}
+.box1{
+    background-color: rgb(255, 214, 161);
+    font-style:italic;
+    font-size:20px;
+    border-color: black;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+.box2{
+    background-color: rgb(238, 221, 196);
+    border:solid rgb(238, 221, 196);
+    font-size:20px;
+    padding-top: 5px;
+    margin-top: 5px;
+}
+h1{
+    font-size:30px;
+    text-decoration:underline;
+
+}
+img{
+    width:30%;
+    height:30%;
+    border:solid rgb(250, 69, 69);
+    display: block;
+    margin: auto;
+}
